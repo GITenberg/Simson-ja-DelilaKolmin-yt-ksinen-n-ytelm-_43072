@@ -1,0 +1,32 @@
+_repo: Simson-ja-DelilaKolmin-yt-ksinen-n-ytelm-_43072
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Linnankoski, Johannes
+    alias: Peltonen, Vihtori
+    birthdate: 1869
+    deathdate: 1913
+    gutenberg_agent_id: '4130'
+    url: http://www.gutenberg.org/2009/agents/4130
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Johannes_Linnankoski
+    - http://en.wikipedia.org/wiki/Johannes_Linnankoski
+description: ''
+gutenberg_issued: '2013-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43072'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Samson (Biblical judge) -- Drama'
+- !lcsh 'Delilah (Biblical figure) -- Drama'
+- !lcsh 'Bible plays'
+title: 'Simson ja Delila: Kolminäytöksinen näytelmä'
+url: http://www.gutenberg.org/ebooks/43072
